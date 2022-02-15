@@ -1,0 +1,1 @@
+System.register(["./vuex-legacy-32717460.js","./@vue-legacy-a66f6567.js"],(function(t){"use strict";var e,u,n,s,c,i,l;return{setters:[function(t){e=t.u},function(t){u=t.o,n=t.j,s=t.A,c=t.C,i=t.u,l=t.L}],execute:function(){const o=s("div",null,"this is foo page",-1);t("default",{setup(t){const r=e();return(t,e)=>(u(),n(l,null,[o,s("p",null,c(i(r).state.test),1)],64))}})}}}));
