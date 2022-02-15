@@ -10,7 +10,6 @@ class ApiHost {
         });
         this.baseUrl = baseUrl;
         this.baseOptions = baseOptions;
-        //拦截器,用户识别需不需要token
         this.axiosInstance.interceptors.request.use(
             config => {
                 let token = window.localStorage.getItem('token')

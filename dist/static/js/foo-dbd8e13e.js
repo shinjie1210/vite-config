@@ -1,1 +1,0 @@
-import{u as s}from"./vuex-787e8e78.js";import{o,j as a,A as t,C as r,u as n,L as c}from"./@vue-f56e2029.js";const l=t("div",null,"this is foo page",-1),f={setup(u){const e=s();return(p,i)=>(o(),a(c,null,[l,t("p",null,r(n(e).state.test),1)],64))}};export{f as default};

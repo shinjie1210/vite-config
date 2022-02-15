@@ -1,0 +1,1 @@
+System.register(["./vuex-legacy-f0af3952.js","./@vue-legacy-f906346f.js"],(function(t){"use strict";var e,u,n,s,c,f,r;return{setters:[function(t){e=t.u},function(t){u=t.f,n=t.g,s=t.j,c=t.t,f=t.u,r=t.F}],execute:function(){const i=s("div",null,"this is bar page",-1);t("default",{setup(t){const l=e();return(t,e)=>(u(),n(r,null,[i,s("p",null,c(f(l).state.test),1)],64))}})}}}));
