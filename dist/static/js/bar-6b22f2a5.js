@@ -1,0 +1,1 @@
+import{u as s}from"./vuex-c2d37e78.js";import{o as a,f as o,q as t,t as r,u as n,F as c}from"./@vue-a2208f88.js";const l=t("div",null,"this is bar page",-1),f={setup(u){const e=s();return(p,i)=>(a(),o(c,null,[l,t("p",null,r(n(e).state.test),1)],64))}};export{f as default};
